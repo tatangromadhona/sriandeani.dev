@@ -108,7 +108,7 @@
 
       $(function() {
           element.typed({
-              strings: ["asalasal aja", "Dian Sayang Tatang"],
+              strings: ["asalasal aja", "Dian Sayang Tatang", "tapi boong"],
               typeSpeed: 80,
               loop: true,
           });
